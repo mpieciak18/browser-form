@@ -1,0 +1,16 @@
+#webform {
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    align-items: center;
+    border: 1px grey solid;
+    border-radius: 10px;
+}
+#webform > input {
+    margin-bottom: 15px;
+    width: 230px;
+}
+#webform > button {
+    margin-bottom: 15px;
+    width: 235px;
+}
